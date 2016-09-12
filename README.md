@@ -9,4 +9,6 @@ Edit Extension2
 
 # GitTest edit
 
+# Git Test Conflict
+
 # GitTest 2
