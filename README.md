@@ -12,3 +12,5 @@ Edit Extension2
 # Git Test Conflict
 
 # GitTest 2
+
+# Git Test Merge 3
